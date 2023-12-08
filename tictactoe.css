@@ -13,7 +13,7 @@ body {
 
 .board {
   display: grid;
-  grid-template-columns: repeat(3, 100px);
+  grid-template-columns: repeat(3, 200px);
   grid-gap: 10px;
   background-color: #333;
   padding: 10px;
@@ -21,8 +21,8 @@ body {
 }
 
 .cell {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   display: flex;
   justify-content: center;
   align-items: center;
