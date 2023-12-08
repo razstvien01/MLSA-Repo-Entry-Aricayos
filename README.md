@@ -12,10 +12,7 @@ To clone the repository to your local machine, open your terminal or command pro
 
 ```bash
 git clone https://github.com/razstvien01/MLSA-Repo-Entry-Aricayos.git
-'''
-
-### Running the HTML File
-1. cd MLSA-Repo-Entry-Aricayos
-2. start index.html, in Windows
-3. open index.html, in MacOS
-4. xdg-open index.html, in Linux
+cd MLSA-Repo-Entry-Aricayos
+start index.html ### for Windows
+open index.html ### for  MacOS
+xdg-open index.html ### for Linux
